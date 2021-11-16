@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'butler-black';
-    src: url('butler-black-webfont.woff2') format('woff2'),
-         url('butler-black-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/butler-black-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/butler-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'butler-medium';
-    src: url('butler-medium-webfont.woff2') format('woff2'),
-         url('butler-medium-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/butler-medium-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/butler-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'butler-extrabold';
-    src: url('butler-extrabold-webfont.woff2') format('woff2'),
-         url('butler-extrabold-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/butler-extrabold-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/butler-extrabold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -40,8 +40,8 @@
 
 @font-face {
     font-family: 'hkgrotesk-black';
-    src: url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-black-webfont.woff2') format('woff2'),
-         url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-black-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-black-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -52,8 +52,8 @@
 
 @font-face {
     font-family: 'hkgrotesk-bolditalic';
-    src: url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-bolditalic-webfont.woff2') format('woff2'),
-         url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-bolditalic-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-bolditalic-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-bolditalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -64,8 +64,8 @@
 
 @font-face {
     font-family: 'hkgrotesk-light';
-    src: url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-light-webfont.woff2') format('woff2'),
-         url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-light-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-light-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -76,8 +76,8 @@
 
 @font-face {
     font-family: 'hkgrotesk-lightitalic';
-    src: url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-lightitalic-webfont.woff2') format('woff2'),
-         url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-lightitalic-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-lightitalic-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -88,8 +88,8 @@
 
 @font-face {
     font-family: 'hkgrotesk-medium';
-    src: url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-medium-webfont.woff2') format('woff2'),
-         url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-medium-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-medium-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -100,8 +100,8 @@
 
 @font-face {
     font-family: 'hkgrotesk-mediumitalic';
-    src: url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-mediumitalic-webfont.woff2') format('woff2'),
-         url('file:///Users/alex/Downloads/webfontkit-20211116-132123/hkgrotesk-mediumitalic-webfont.woff') format('woff');
+    src: url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-mediumitalic-webfont.woff2') format('woff2'),
+         url('https://github.com/voamedia/vk-tmp/blob/main/hkgrotesk-mediumitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
